@@ -1,0 +1,73 @@
+/* h1-h6 */
+
+.h1 {
+    font-size: 40px;
+}
+
+.h2 {
+    font-size: 32px;
+}
+
+.h3 {
+    font-size: 28px;
+}
+
+.h4 {
+    font-size: 24px;
+}
+
+.h5 {
+    font-size: 20px;
+}
+
+.h6 {
+    font-size: 16px;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-weight: 600;
+}
+
+
+
+/* paragraf size */
+.p12 {
+    font-size: 12px;
+}
+.p14 {
+    font-size: 14px;
+}
+.p16 {
+    font-size: 16px;
+}
+.p18 {
+    font-size: 18px;
+}
+.p20 {
+    font-size: 20px;
+}
+.p22 {
+    font-size: 22px;
+}
+.p24 {
+    font-size: 24px;
+}
+.p28 {
+    font-size: 28px;
+}
+.text-weight {
+    font-weight: bold;
+}
+
+
+.text-center {
+    text-align: center;
+}
+.f-family {
+    font-family: Arial, Helvetica, sans-serif;
+}

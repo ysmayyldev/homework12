@@ -1,0 +1,15 @@
+.text-white {
+    color: #ffffff;
+}
+.text-gray {
+    color: rgb(134, 134, 134);
+}
+.text-black {
+    color: #000000;
+}
+.bg-gray {
+    background-color: rgb(216, 221, 247);
+}
+.btn-green {
+    background-color: rgb(91, 165, 53);
+}
